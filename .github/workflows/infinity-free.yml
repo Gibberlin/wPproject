@@ -20,8 +20,6 @@ jobs:
         password: ${{ secrets.FTP_PASSWORD }}
         # server-dir is htdocs because InfinityFree ignores files outside it
         server-dir: htdocs/ 
-        retries: 3
-        retryDelay: 10
         # local-dir is ./ to upload everything from your repo root
         local-dir: ./ 
 
