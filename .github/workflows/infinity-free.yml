@@ -1,0 +1,32 @@
+name: Deploy to bvecstudmang.page.gd
+on:
+  push:
+    branches:
+      - master # Adjust this if your default branch is 'master'
+
+jobs:
+  web-deploy:
+    name: 🚀 Deploy to bvecstudmang.page.gd
+    runs-on: ubuntu-latest
+    steps:
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v4
+
+    - name: 📂 Sync files via FTP
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      with:
+        server: ftpupload.net
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
+        # server-dir is htdocs because InfinityFree ignores files outside it
+        server-dir: htdocs/ 
+        retries: 3
+        retryDelay: 10
+        # local-dir is ./ to upload everything from your repo root
+        local-dir: ./ 
+
+        # exclude git and github files to keep your server clean
+        exclude: |
+          **/.git*
+          **/.git*/**
+          **/node_modules/**
