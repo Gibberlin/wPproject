@@ -7,8 +7,10 @@
 > A robust, relational database-driven web application designed to digitize academic administration, student record tracking, and performance management.
 <img width="1892" height="867" alt="Home" src="https://github.com/user-attachments/assets/9663152c-ca8d-4ad0-baf5-cfc5fbf75f9c" />
 
----
+## 🔗 Project Link
+https://bvecstudmang.page.gd/index.php
 
+---
 ## 🌟 Key Features
 - **🔐 Multi-user Authentication:** Secure login for Administrators and Students.
 - **📁 Record Management:** Comprehensive CRUD operations for Students, Instructors, and Courses.
