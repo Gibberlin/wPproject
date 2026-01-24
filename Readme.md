@@ -22,7 +22,7 @@ https://bvecstudmang.page.gd/index.php
 ## 🛠️ Architecture & Tech Stack
 * **Backend:** PHP (Server-side logic)
 * **Database:** MySQL (Relational storage)
-* **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
+* **Frontend:** HTML5, CSS3, JavaScript, Bulma CSS
 * **Server:** XAMPP / WAMP (Local Development)
 ---
 ## 📂 Database
