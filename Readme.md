@@ -10,6 +10,10 @@
 ## 🔗 Project Link
 https://bvecstudmang.page.gd/index.php
 
+***credentials of student:***
+* Username: stud4
+* pass: 123
+
 ---
 ## 🌟 Key Features
 - **🔐 Multi-user Authentication:** Secure login for Administrators and Students.
