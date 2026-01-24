@@ -3,6 +3,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
 > A robust, relational database-driven web application designed to digitize academic administration, student record tracking, and performance management.
 <img width="1892" height="867" alt="Home" src="https://github.com/user-attachments/assets/9663152c-ca8d-4ad0-baf5-cfc5fbf75f9c" />
