@@ -36,7 +36,7 @@
 
 1.  **Clone the Repo**
     ```bash
-    git clone [https://github.com/Dexter0013/Student-Management-System.git](https://github.com/Dexter0013/Student-Management-System.git)
+    git clone https://github.com/Dexter0013/Student-Management-System.git
     ```
 
 2.  **Import Database**
