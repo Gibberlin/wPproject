@@ -24,6 +24,9 @@ https://bvecstudmang.page.gd/index.php
 * **Database:** MySQL (Relational storage)
 * **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
 * **Server:** XAMPP / WAMP (Local Development)
+---
+## 📂 Database
+![WhatsApp Image 2026-01-24 at 3 53 59 PM](https://github.com/user-attachments/assets/350ca27f-ecc4-4e8c-a6cd-00d46f592260)
 
 ---
 
@@ -70,3 +73,29 @@ https://bvecstudmang.page.gd/index.php
 ├── sql/                # Database schemas (.sql files)
 ├── dashboard/          # Admin & Student portal pages
 └── index.php           # Main entry point (Login)
+```
+---
+
+## 👨‍💻 Authors
+
+* **Deepraj**
+  * 🎓 B.Tech CSE Student
+  * 🤖 AI/ML & 🏗️ Backend Architecture
+
+* **Yasin**
+  * 🎓 B.Tech CSE Student
+  * 🚀 DevOps & ⚙️ Deployment
+
+* **Bijendra**
+  * 🎓 B.Tech CSE Student
+  * 📂 Backend & 🎨 UI Design
+
+* **Nur Amin**
+  * 🎓 B.Tech CSE Student
+  * 💻 Frontend & 💡 Ideas
+
+* **Shubham**
+  * 🎓 B.Tech CSE Student
+  * 🖌️ Frontend & 🖼️ UI Design
+
+---
