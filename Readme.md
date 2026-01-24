@@ -82,7 +82,7 @@ https://bvecstudmang.page.gd/index.php
   * 🎓 B.Tech CSE Student
   * 🤖 AI/ML & 🏗️ Backend Architecture
 
-* **Yasin**
+* **Yashin**
   * 🎓 B.Tech CSE Student
   * 🚀 DevOps & ⚙️ Deployment
 
